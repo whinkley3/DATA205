@@ -15,7 +15,7 @@ Added the Power Bi files to the Github
 
 Added a screen shot of the table view where data cleaning and metric selection is done.
 
-Links to data for projects
+Links to data for project
 https://www.cityhealthdashboard.com
 https://www.countyhealthrankings.org
 https://www.neighborhoodscout.com
