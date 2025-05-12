@@ -13,7 +13,7 @@ Rockville City Power Bi Dashboard PDF version
 
 Added the Power Bi files to the Github
 
-Added a screen shot of the table view where data cleaning and metric selection is done.
+Added a screen shot of the table view where data cleaning and metric selection is done with in power Bi.
 
 Links to data for project
 https://www.cityhealthdashboard.com
